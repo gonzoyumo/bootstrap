@@ -115,6 +115,7 @@
 `*-format` attributes have been renamed to `format-*`
 `min` attribute has been renamed to `min-date`
 `max` attribute has been renamed to `max-date`
+"Open of focus" has been removed. Read more on this ([comment](https://github.com/angular-ui/bootstrap/pull/1922#issuecomment-40491716)). 
 
 - **pagination:**
 
